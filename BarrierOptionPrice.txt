@@ -1,0 +1,33 @@
+Simulation Parameters:
+Option Type: Barrier
+Expiry: 1
+Strike: 100
+Spot: 90
+Volatility: 0.1
+Risk-free rate: 0.045
+Dividend rate: 0
+Barrier level: 120
+Number of monitoring dates: 30
+Number of paths: 1000000
+
+For the Barrier option price, the results are:
+4.72572 2 
+2.74578 4 
+2.4835 8 
+2.24637 16 
+1.66589 32 
+1.31189 64 
+1.39285 128 
+1.45266 256 
+1.29444 512 
+1.3726 1024 
+1.3868 2048 
+1.40547 4096 
+1.40319 8192 
+1.3558 16384 
+1.36888 32768 
+1.38015 65536 
+1.36829 131072 
+1.36047 262144 
+1.36389 524288 
+1.36096 1e+06 

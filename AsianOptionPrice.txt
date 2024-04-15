@@ -1,0 +1,32 @@
+Simulation Parameters:
+Option Type: Asian
+Expiry: 1
+Strike: 100
+Spot: 90
+Volatility: 0.1
+Risk-free rate: 0.045
+Dividend rate: 0
+Number of monitoring dates: 30
+Number of paths: 1000000
+
+For the Asian option price, the results are:
+2.53575 2 
+1.26787 4 
+0.633937 8 
+0.64071 16 
+0.320355 32 
+0.232048 64 
+0.177628 128 
+0.254662 256 
+0.221927 512 
+0.274665 1024 
+0.22567 2048 
+0.231535 4096 
+0.228096 8192 
+0.23043 16384 
+0.22018 32768 
+0.218103 65536 
+0.21462 131072 
+0.214657 262144 
+0.214977 524288 
+0.215344 1e+06 
